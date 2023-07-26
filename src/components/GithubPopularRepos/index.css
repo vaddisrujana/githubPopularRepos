@@ -1,0 +1,18 @@
+.background {
+  background-size: cover;
+  height: 100vh;
+  text-align: center;
+}
+.background2 {
+  display: flex;
+  flex-wrap: wrap;
+}
+.head {
+  font-family: 'Lobster';
+  font-weight: bold;
+  font-size: 40px;
+}
+.background1 {
+  display: flex;
+  justify-content: center;
+}

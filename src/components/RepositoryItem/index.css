@@ -1,0 +1,25 @@
+.list {
+  list-style-type: none;
+  background-color: #f8f8ff;
+  padding: 20px;
+  border-radius: 15px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
+.image {
+  height: 20vh;
+}
+.para1 {
+  color: #e73959;
+  font-size: 20px;
+  font-family: 'Roboto';
+}
+.back1 {
+  display: flex;
+  justify-content: row;
+}
+.icon {
+  height: 2vh;
+  margin-top: 20px;
+  margin-right: 10px;
+}

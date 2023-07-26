@@ -1,0 +1,10 @@
+.list1 {
+  list-style-type: none;
+}
+.button {
+  background-color: transparent;
+  border-width: 0;
+  font-size: 15px;
+  margin-right: 20px;
+  cursor: pointer;
+}
